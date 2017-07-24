@@ -1,0 +1,30 @@
+body {
+  background-image: url(https://www.nasa.gov/sites/default/files/bwhi1apicaaamlo.jpg_large.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+  background-color: #000000;}
+
+.chart {
+  opacity: .95;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 35px; }
+
+.info{
+  background: #ffffff;
+  height:120px;
+  width:120px;
+  text-align: center;
+  position:absolute;
+}
+.hidden {
+  display: none; }
+
+footer {
+  color:#ffffff;
+	font-size: 12px;
+	position:absolute;
+	bottom: 1px;
+}
+/*# sourceMappingURL=main.css.map */

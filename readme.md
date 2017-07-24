@@ -1,0 +1,1 @@
+d3 heat map of monthly average global surface temperature.
